@@ -1,0 +1,10 @@
+{
+  "description": "Enhances user interface design to improve visual appeal and user experience without altering existing functionality for seamless usability.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
